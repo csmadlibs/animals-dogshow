@@ -33,7 +33,7 @@ var onlibitClick = function(){
     var food3 = document.getElementById("food3").value
     var storyDiv = document.getElementById("story")
     story.innerHTML = "Every year, the local dog shelter hosts a dog show to find the " + adjst1 + " dog in the town. This time, I entered my " + breed1 + ", " + food1
-+ ". I've trained him to " + verb1 + " and to " + verb2 + " on command. Every time he does a trick right, I give him a " + food2 + ". At the dog show, he ran out in front of the judges and started to " + verb3 + ". The crowd went wild and a big " + breed2 + " behind " + food1 + "started to " + verb4 + ". He didn't win the big prize, but he was awarded the prize for " + adjst2 + " in show. We got a HUGE trophy shaped like a " + food3 + ". I can't wait for the dog show next year!" 
++ ". I've trained him to " + verb1 + " and to " + verb2 + " on command. Every time he does a trick right, I give him a " + food2 + ". At the dog show, he ran out in front of the judges and started to " + verb3 + ". The crowd went wild and a big " + breed2 + " behind " + food1 + " started to " + verb4 + ". He didn't win the big prize, but he was awarded the prize for " + adjst2 + " in show. We got a HUGE trophy shaped like a " + food3 + ". I can't wait for the dog show next year!" 
 
 }
 clicker.addEventListener("click", onlibitClick)
